@@ -1,0 +1,146 @@
+
+Show
+ BaseType "Mirror of Kalandra"
+ SetFontSize 30
+ SetTextColor 255 51 51
+ SetBorderColor 255 255 255
+ SetBackgroundColor 255 255 255
+
+
+Show
+ BaseType "Regal Orb"
+ SetFontSize 30
+ SetTextColor 255 51 51
+ SetBorderColor 255 255 255
+ SetBackgroundColor 255 255 255
+
+
+Show
+ BaseType "Artificer's Orb"
+ SetFontSize 30
+ SetTextColor 255 51 51
+ SetBorderColor 255 255 255
+ SetBackgroundColor 255 255 255
+
+
+Show
+ BaseType "Exalted Orb"
+ SetFontSize 30
+ SetTextColor 255 51 51
+ SetBorderColor 255 255 255
+ SetBackgroundColor 255 255 255
+ 
+
+Show
+ BaseType "Orb of Alchemy"
+ SetFontSize 30
+ SetTextColor 255 255 255
+ SetBorderColor 0 153 153
+ SetBackgroundColor 0 153 153
+
+
+Show
+ BaseType "Chaos Orb"
+ SetFontSize 30
+ SetTextColor 255 255 255
+ SetBorderColor 0 153 153
+ SetBackgroundColor 0 153 153
+ 
+Show
+ Class Trial Coins
+ SetFontSize 30
+ SetTextColor 255 255 255
+ SetBorderColor 0 153 153
+ SetBackgroundColor 0 153 153
+
+Show
+ Sockets S S S
+ SetFontSize 30
+ SetTextColor 255 255 255
+ SetBorderColor 51 0 102
+ SetBackgroundColor 51 0 102
+
+Show
+ Sockets S S
+ SetFontSize 30
+ SetTextColor 255 255 255
+ SetBorderColor 51 0 102
+ SetBackgroundColor 51 0 102
+
+Show
+ Sockets S 
+ SetFontSize 30
+ SetTextColor 255 255 255
+ SetBorderColor 51 0 102
+ SetBackgroundColor 51 0 102
+
+
+Show
+ BaseType "Gold"
+ 
+
+Show
+ Class Currency
+ SetFontSize 30
+ SetTextColor 255 255 255
+ SetBorderColor 0 51 51
+ SetBackgroundColor 0 51 51
+
+
+Show
+ Class Quest Items
+ SetFontSize 30
+ SetTextColor 255 255 255
+ SetBorderColor 0 204 0
+ SetBackgroundColor 0 204 0
+ 
+
+Show
+ Class "Two Hand Maces"
+ SetFontSize 30
+ SetTextColor 255 255 255
+ SetBorderColor 0 102 51
+ SetBackgroundColor 0 102 51
+
+Show
+ BaseType "Rune"
+ SetFontSize 30
+ SetTextColor 255 255 255
+ SetBorderColor 0 76 153
+ SetBackgroundColor 0 76 153
+
+Show
+ Rarity Unique
+ SetFontSize 30
+ SetTextColor 255 255 255
+ SetBorderColor 153 76 0
+ SetBackgroundColor 153 76 0
+
+Show
+ Rarity Rare
+ SetFontSize 30
+ SetTextColor 255 255 255
+ SetBorderColor 153 153 0
+ SetBackgroundColor 153 153 0
+
+Show
+ Rarity Magic
+ SetFontSize 30
+ SetTextColor 0 0 0
+ SetBorderColor 0 102 204
+ SetBackgroundColor 0 102 204
+
+Show
+ Rarity Normal
+ SetFontSize 30
+ SetTextColor 255 255 255
+ SetBorderColor 128 128 128
+ SetBackgroundColor 128 128 128
+
+Show
+ Quality >= 1
+ SetFontSize 30
+ SetTextColor 255 255 255
+ SetBorderColor 204 153 255
+ SetBackgroundColor 204 153 255
+
